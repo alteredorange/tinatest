@@ -2,18 +2,18 @@
   "config": [
     {
       "type": "link",
-      "slug": "something-new",
-      "title": "Something New!",
-      "id": "qzut7f8ae",
-      "children": []
-    },
-    {
-      "type": "link",
       "key": "getting-started",
       "slug": "getting-started",
       "title": "Tina Alpaca",
       "position": 0,
       "id": "1",
+      "children": []
+    },
+    {
+      "type": "link",
+      "slug": "something-new",
+      "title": "Something New!",
+      "id": "qzut7f8ae",
       "children": []
     },
     {
